@@ -1,2 +1,4 @@
 This is a new file a.txt
 Just trying
+modifications from user01
+some new lines
